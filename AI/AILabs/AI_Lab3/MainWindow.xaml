@@ -1,0 +1,97 @@
+﻿<Window x:Class="AI_Lab3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AI_Lab3"
+        mc:Ignorable="d" Background="#2C2C2C"
+        ResizeMode="CanMinimize"
+        Title="MainWindow" Height="450" Width="650">
+    <Window.Resources>
+        <SolidColorBrush x:Key="AccentColor" Color="#F7CA18" />
+        
+        <Style x:Key="CellStyle" TargetType="Border">
+            <Setter Property="BorderBrush" Value="{StaticResource AccentColor}" />
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="Background" Value="#2C2C2C" />
+            <Setter Property="Padding" Value="5" />
+            <Setter Property="Height" Value="100" />
+            <Setter Property="Width" Value="100" />
+            <EventSetter Event="MouseDown" Handler="Cell_OnMouseDown" />
+        </Style>
+        <Style x:Key="CellValueStyle" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="{StaticResource AccentColor}" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="FontFamily" Value="Segoe UI" />
+            <Setter Property="FontSize" Value="36" />
+        </Style>
+
+        <Style x:Key="TextBlockStyle" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="{StaticResource AccentColor}" />
+            <Setter Property="FontFamily" Value="Segoe UI" />
+            <Setter Property="FontSize" Value="18" />
+        </Style>
+        
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="400" />
+            <ColumnDefinition Width="250" />
+        </Grid.ColumnDefinitions>
+        <Canvas x:Name="BarleyBreakCanvas" Grid.Column="0" Margin="20,10,0,10" >
+            <Border Canvas.Left="0" Canvas.Top="0" Style="{StaticResource CellStyle}">
+                <TextBlock Style="{StaticResource CellValueStyle}" Text="0" />
+            </Border>
+            <Border Canvas.Left="140" Canvas.Top="0" Style="{StaticResource CellStyle}">
+                <TextBlock Style="{StaticResource CellValueStyle}" Text="0" />
+            </Border>
+            <Border Canvas.Left="280" Canvas.Top="0" Style="{StaticResource CellStyle}">
+                <TextBlock Style="{StaticResource CellValueStyle}" Text="0" />
+            </Border>
+            
+            <Border Canvas.Left="0" Canvas.Top="140" Style="{StaticResource CellStyle}">
+                <TextBlock Style="{StaticResource CellValueStyle}" Text="0" />
+            </Border>
+            <Border Canvas.Left="140" Canvas.Top="140" Style="{StaticResource CellStyle}">
+                <TextBlock Style="{StaticResource CellValueStyle}" Text="0" />
+            </Border>
+            <Border Canvas.Left="280" Canvas.Top="140" Style="{StaticResource CellStyle}">
+                <TextBlock Style="{StaticResource CellValueStyle}" Text="0" />
+            </Border>
+            
+            <Border Canvas.Left="0" Canvas.Top="280" Style="{StaticResource CellStyle}">
+                <TextBlock Style="{StaticResource CellValueStyle}" Text="0" />
+            </Border>
+            <Border Canvas.Left="140" Canvas.Top="280" Style="{StaticResource CellStyle}">
+                <TextBlock Style="{StaticResource CellValueStyle}" Text="0" />
+            </Border>
+            <Border Canvas.Left="280" Canvas.Top="280" Style="{StaticResource CellStyle}">
+                <TextBlock Style="{StaticResource CellValueStyle}" Text="0" />
+            </Border>
+        </Canvas>
+        <StackPanel Grid.Column="1" Orientation="Vertical" Margin="10">
+            <StackPanel.Resources>
+                <Style x:Key="ButtonStyle" TargetType="Button" BasedOn="{StaticResource SquareMetroButton}">
+                    <Setter Property="HorizontalAlignment" Value="Stretch" />
+                    <Setter Property="Margin" Value="10,0,10,10" />
+                    <Setter Property="BorderBrush" Value="{StaticResource AccentColor}" />
+                    <Setter Property="Foreground" Value="{StaticResource AccentColor}" />
+                    <Setter Property="BorderThickness" Value="1" />
+                    <Setter Property="FontSize" Value="18" />
+                    <Setter Property="FontFamily" Value="Segoe UI" />
+                    <Setter Property="IsTabStop" Value="False" />
+                </Style>
+            </StackPanel.Resources>
+            <ComboBox x:Name="HeuristicComboBox" Style="{StaticResource ComboBoxFlatStyle}" Margin="10,0,10,10" SelectedIndex="0">
+                <TextBlock Text="A*" Style="{StaticResource TextBlockStyle}" />
+           
+            </ComboBox>
+            <Button Style="{StaticResource ButtonStyle}" Content="Resolve" Click="ResolveButton_OnClick" />
+            <Button x:Name="NextStepButton" Style="{StaticResource ButtonStyle}" Content="Next step" IsEnabled="False" Click="NextStepButton_OnClick"/>
+            <TextBlock x:Name="StepsTextBlock" Style="{StaticResource TextBlockStyle}" Margin="10,0,10,10" Text="Step: "/>
+            <TextBlock x:Name="OpenedStatesTextBlock" Style="{StaticResource TextBlockStyle}" Margin="10,0,10,10" Text="Opened states: "/>
+            <Button Style="{StaticResource ButtonStyle}" Content="Reset" Click="ResetButton_OnClick" />
+        </StackPanel>
+    </Grid>
+</Window>
