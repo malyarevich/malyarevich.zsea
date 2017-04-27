@@ -1,0 +1,26 @@
+.cont {
+	
+margin: auto auto;
+
+text-align: center;
+
+}
+
+
+.cont>span {
+	
+display: inline-block;
+
+font-size: 20pt;
+
+min-width: 45px;
+
+}
+canvas {
+	height: 600px;
+	width: 600px;
+	border: 1px solid #000;
+}
+button {
+	margin: auto auto;
+}
