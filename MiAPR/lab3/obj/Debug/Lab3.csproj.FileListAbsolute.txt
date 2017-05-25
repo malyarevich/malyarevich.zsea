@@ -1,0 +1,21 @@
+C:\Users\FireNero\Dropbox\Study\Decision Methods\DM_Lab3\Lab3\bin\Debug\АТП.exe
+C:\Users\FireNero\Dropbox\Study\Decision Methods\DM_Lab3\Lab3\bin\Debug\АТП.pdb
+C:\Users\FireNero\Dropbox\Study\Decision Methods\DM_Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\FireNero\Dropbox\Study\Decision Methods\DM_Lab3\Lab3\obj\Debug\АТП.Form1.resources
+C:\Users\FireNero\Dropbox\Study\Decision Methods\DM_Lab3\Lab3\obj\Debug\АТП.Properties.Resources.resources
+C:\Users\FireNero\Dropbox\Study\Decision Methods\DM_Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\FireNero\Dropbox\Study\Decision Methods\DM_Lab3\Lab3\obj\Debug\АТП.exe
+C:\Users\FireNero\Dropbox\Study\Decision Methods\DM_Lab3\Lab3\obj\Debug\АТП.pdb
+D:\Margarita\Desktop\Lab3\obj\Debug\АТП.exe
+D:\Margarita\Desktop\Lab3\obj\Debug\АТП.pdb
+G:\Lab3\obj\Debug\АТП.exe
+G:\Lab3\obj\Debug\АТП.pdb
+G:\Lab3\bin\Debug\АТП.exe
+G:\Lab3\bin\Debug\АТП.pdb
+G:\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+G:\Lab3\obj\Debug\АТП.Form1.resources
+G:\Lab3\obj\Debug\АТП.Properties.Resources.resources
+G:\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\MPA\Desktop\MiAPR\v0\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\MPA\Desktop\MiAPR\v0\Lab3\obj\Debug\АТП.exe
+C:\Users\MPA\Desktop\MiAPR\v0\Lab3\obj\Debug\АТП.pdb

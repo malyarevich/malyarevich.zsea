@@ -1,0 +1,54 @@
+C:\Users\Cristalis\Documents\Visual Studio 2010\Projects\MiAP3\MiAP3\bin\Debug\MiAP3.exe
+C:\Users\Cristalis\Documents\Visual Studio 2010\Projects\MiAP3\MiAP3\bin\Debug\MiAP3.pdb
+C:\Users\Cristalis\Documents\Visual Studio 2010\Projects\MiAP3\MiAP3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cristalis\Documents\Visual Studio 2010\Projects\MiAP3\MiAP3\obj\x86\Debug\MiAP3.Form1.resources
+C:\Users\Cristalis\Documents\Visual Studio 2010\Projects\MiAP3\MiAP3\obj\x86\Debug\MiAP3.Properties.Resources.resources
+C:\Users\Cristalis\Documents\Visual Studio 2010\Projects\MiAP3\MiAP3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cristalis\Documents\Visual Studio 2010\Projects\MiAP3\MiAP3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cristalis\Documents\Visual Studio 2010\Projects\MiAP3\MiAP3\obj\x86\Debug\MiAP3.exe
+C:\Users\Cristalis\Documents\Visual Studio 2010\Projects\MiAP3\MiAP3\obj\x86\Debug\MiAP3.pdb
+G:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.exe
+G:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.pdb
+I:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.exe
+I:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.pdb
+I:\MiAP3\MiAP3\bin\Debug\MiAP3.exe
+I:\MiAP3\MiAP3\bin\Debug\MiAP3.pdb
+I:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.csprojResolveAssemblyReference.cache
+I:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.Form1.resources
+I:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.Properties.Resources.resources
+I:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.csproj.GenerateResource.Cache
+E:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.exe
+E:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.pdb
+E:\MiAP3\MiAP3\bin\Debug\MiAP3.exe
+E:\MiAP3\MiAP3\bin\Debug\MiAP3.pdb
+E:\MiAP3\MiAP3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.Form1.resources
+E:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.Properties.Resources.resources
+E:\MiAP3\MiAP3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\MiAP3\MiAP3\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.exe
+H:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.pdb
+H:\MiAP3\MiAP3\bin\Debug\MiAP3.exe
+H:\MiAP3\MiAP3\bin\Debug\MiAP3.pdb
+H:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.csprojResolveAssemblyReference.cache
+H:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.Form1.resources
+H:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.Properties.Resources.resources
+H:\MiAP3\MiAP3\obj\x86\Debug\MiAP3.csproj.GenerateResource.Cache
+E:\MiAP4\MiAP3\obj\x86\Debug\MiAP3.exe
+E:\MiAP4\MiAP3\obj\x86\Debug\MiAP3.pdb
+E:\MiAP4\MiAP3\bin\Debug\MiAP3.exe
+E:\MiAP4\MiAP3\bin\Debug\MiAP3.pdb
+E:\MiAP4\MiAP3\obj\x86\Debug\MiAP3.csprojResolveAssemblyReference.cache
+E:\MiAP4\MiAP3\obj\x86\Debug\MiAP3.Form1.resources
+E:\MiAP4\MiAP3\obj\x86\Debug\MiAP3.Properties.Resources.resources
+E:\MiAP4\MiAP3\obj\x86\Debug\MiAP3.csproj.GenerateResource.Cache
+D:\1\MiAP4\MiAP3\obj\x86\Debug\MiAP3.exe
+D:\1\MiAP4\MiAP3\obj\x86\Debug\MiAP3.pdb
+D:\1\MiAP4\MiAP3\bin\Debug\MiAP3.exe
+D:\1\MiAP4\MiAP3\bin\Debug\MiAP3.pdb
+D:\1\MiAP4\MiAP3\obj\x86\Debug\MiAP3.csprojResolveAssemblyReference.cache
+D:\1\MiAP4\MiAP3\obj\x86\Debug\MiAP3.Form1.resources
+D:\1\MiAP4\MiAP3\obj\x86\Debug\MiAP3.Properties.Resources.resources
+D:\1\MiAP4\MiAP3\obj\x86\Debug\MiAP3.csproj.GenerateResource.Cache
+D:\X-Files\ЗГИА\4 курс\4 пс\MiAPR Лабы\MiAPR4\MiAP4\MiAP3\obj\x86\Debug\MiAP3.exe
+D:\X-Files\ЗГИА\4 курс\4 пс\MiAPR Лабы\MiAPR4\MiAP4\MiAP3\obj\x86\Debug\MiAP3.pdb

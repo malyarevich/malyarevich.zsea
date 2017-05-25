@@ -1,0 +1,25 @@
+D:\X-Files\ЗГИА\4 курс\4 пс\MiAPR Лабы\MiAPR4\MiAP4\MiAP3\bin\Debug\MiAP3.exe
+D:\X-Files\ЗГИА\4 курс\4 пс\MiAPR Лабы\MiAPR4\MiAP4\MiAP3\bin\Debug\MiAP3.pdb
+D:\X-Files\ЗГИА\4 курс\4 пс\MiAPR Лабы\MiAPR4\MiAP4\MiAP3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\X-Files\ЗГИА\4 курс\4 пс\MiAPR Лабы\MiAPR4\MiAP4\MiAP3\obj\x86\Debug\MiAP3.Form1.resources
+D:\X-Files\ЗГИА\4 курс\4 пс\MiAPR Лабы\MiAPR4\MiAP4\MiAP3\obj\x86\Debug\MiAP3.Properties.Resources.resources
+D:\X-Files\ЗГИА\4 курс\4 пс\MiAPR Лабы\MiAPR4\MiAP4\MiAP3\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\X-Files\ЗГИА\4 курс\4 пс\MiAPR Лабы\MiAPR4\MiAP4\MiAP3\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\X-Files\ЗГИА\4 курс\4 пс\MiAPR Лабы\MiAPR4\MiAP4\MiAP3\obj\x86\Debug\MiAP3.exe
+D:\X-Files\ЗГИА\4 курс\4 пс\MiAPR Лабы\MiAPR4\MiAP4\MiAP3\obj\x86\Debug\MiAP3.pdb
+D:\Прочее\Моя папка\Школа, институт\Институт\4 Курс\0vSemestr_2\МіАПР\laba4m1\MiAP3\obj\x86\Debug\MiAP3.exe
+D:\Прочее\Моя папка\Школа, институт\Институт\4 Курс\0vSemestr_2\МіАПР\laba4m1\MiAP3\obj\x86\Debug\MiAP3.pdb
+D:\Прочее\Моя папка\Школа, институт\Институт\4 Курс\0vSemestr_2\МіАПР\laba4m1\MiAP3\bin\Debug\MiAP3.exe
+D:\Прочее\Моя папка\Школа, институт\Институт\4 Курс\0vSemestr_2\МіАПР\laba4m1\MiAP3\bin\Debug\MiAP3.pdb
+D:\Прочее\Моя папка\Школа, институт\Институт\4 Курс\0vSemestr_2\МіАПР\laba4m1\MiAP3\obj\x86\Debug\MiAP4.csprojResolveAssemblyReference.cache
+D:\Прочее\Моя папка\Школа, институт\Институт\4 Курс\0vSemestr_2\МіАПР\laba4m1\MiAP3\obj\x86\Debug\MiAP3.Form1.resources
+D:\Прочее\Моя папка\Школа, институт\Институт\4 Курс\0vSemestr_2\МіАПР\laba4m1\MiAP3\obj\x86\Debug\MiAP3.Properties.Resources.resources
+D:\Прочее\Моя папка\Школа, институт\Институт\4 Курс\0vSemestr_2\МіАПР\laba4m1\MiAP3\obj\x86\Debug\MiAP4.csproj.GenerateResource.Cache
+C:\Users\MPA\Desktop\MiAPR\v1\laba4m1\MiAP3\bin\Debug\MiAP3.exe
+C:\Users\MPA\Desktop\MiAPR\v1\laba4m1\MiAP3\bin\Debug\MiAP3.pdb
+C:\Users\MPA\Desktop\MiAPR\v1\laba4m1\MiAP3\obj\x86\Debug\MiAP4.csprojResolveAssemblyReference.cache
+C:\Users\MPA\Desktop\MiAPR\v1\laba4m1\MiAP3\obj\x86\Debug\MiAP3.Form1.resources
+C:\Users\MPA\Desktop\MiAPR\v1\laba4m1\MiAP3\obj\x86\Debug\MiAP3.Properties.Resources.resources
+C:\Users\MPA\Desktop\MiAPR\v1\laba4m1\MiAP3\obj\x86\Debug\MiAP4.csproj.GenerateResource.Cache
+C:\Users\MPA\Desktop\MiAPR\v1\laba4m1\MiAP3\obj\x86\Debug\MiAP3.exe
+C:\Users\MPA\Desktop\MiAPR\v1\laba4m1\MiAP3\obj\x86\Debug\MiAP3.pdb
