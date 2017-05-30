@@ -1,0 +1,7 @@
+D:\New Folder (3)\04_Course\2c\МіАПР\lab6\bin\Debug\АТП.exe
+D:\New Folder (3)\04_Course\2c\МіАПР\lab6\bin\Debug\АТП.pdb
+D:\New Folder (3)\04_Course\2c\МіАПР\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+D:\New Folder (3)\04_Course\2c\МіАПР\lab6\obj\Debug\АТП.exe
+D:\New Folder (3)\04_Course\2c\МіАПР\lab6\obj\Debug\АТП.pdb
+C:\Users\Aleksey\Desktop\lab6\obj\Debug\АТП.exe
+C:\Users\Aleksey\Desktop\lab6\obj\Debug\АТП.pdb
